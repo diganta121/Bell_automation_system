@@ -3,6 +3,10 @@ esp32 bell automation system for school
 
 https://wokwi.com/projects/384633364504806401
 
+## references
+
+https://www.homemade-circuits.com/automatic-school-college-bell-system-using-arduino/
+
 ## note
 this code is not ready to be implemented.
 its not complete .
